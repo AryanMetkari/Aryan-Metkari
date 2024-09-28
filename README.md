@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan Metkari
+- 👋 Hi, I’m @AryanMetkari
 - 🌱 I’m currently learning Computer Engineering
 
 
